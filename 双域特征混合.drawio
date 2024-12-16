@@ -139,7 +139,7 @@
         <mxCell id="ZfqspJ4jVeSUqqMDaP2K-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="300" y="-65" width="56" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZfqspJ4jVeSUqqMDaP2K-3" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;font-size: 13.8889px;&quot;&gt;&lt;sub&gt;3&lt;/sub&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZfqspJ4jVeSUqqMDaP2K-3" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;font-size: 11.5741px;&quot;&gt;0&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="-30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZfqspJ4jVeSUqqMDaP2K-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=9;endSize=9.27;" edge="1" parent="1">
