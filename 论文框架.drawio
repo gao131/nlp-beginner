@@ -1,9 +1,90 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="sJGfF3w_EI-7Kh9kSfJ_">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontStyle=0;labelBackgroundColor=none;" edge="1" parent="1" source="Pzuw5AjSpCH_m8jwj5JO-2" target="Pzuw5AjSpCH_m8jwj5JO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-2" value="基于边缘增强和傅里叶变换的岩石图像超分辨率重建研究" style="rounded=0;whiteSpace=wrap;fontStyle=0;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="275" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;labelBackgroundColor=none;" edge="1" parent="1" source="Pzuw5AjSpCH_m8jwj5JO-5" target="Pzuw5AjSpCH_m8jwj5JO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;labelBackgroundColor=none;" edge="1" parent="1" source="Pzuw5AjSpCH_m8jwj5JO-5" target="Pzuw5AjSpCH_m8jwj5JO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-5" value="问题探究" style="whiteSpace=wrap;rounded=0;strokeColor=#000000;fontStyle=0;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;labelBackgroundColor=none;" edge="1" parent="1" source="Pzuw5AjSpCH_m8jwj5JO-7" target="Pzuw5AjSpCH_m8jwj5JO-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="220" />
+              <mxPoint x="1040" y="310" />
+              <mxPoint x="1100" y="310" />
+              <mxPoint x="1100" y="220" />
+              <mxPoint x="1150" y="220" />
+              <mxPoint x="1150" y="160" />
+              <mxPoint x="1380" y="160" />
+              <mxPoint x="1380" y="230" />
+            </Array>
+            <mxPoint x="1440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-7" value="重建图像边缘细节丢失及模糊" style="rounded=0;whiteSpace=wrap;fontStyle=0;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="904" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;labelBackgroundColor=none;" edge="1" parent="1" source="Pzuw5AjSpCH_m8jwj5JO-9" target="Pzuw5AjSpCH_m8jwj5JO-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="400" />
+              <mxPoint x="1040" y="310" />
+              <mxPoint x="1100" y="310" />
+              <mxPoint x="1100" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-9" value="忽略噪声对图像重建质量影响" style="rounded=0;whiteSpace=wrap;fontStyle=0;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="904" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;labelBackgroundColor=none;" edge="1" parent="1" source="Pzuw5AjSpCH_m8jwj5JO-11" target="Pzuw5AjSpCH_m8jwj5JO-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-11" value="基于边缘增强的岩石图像超分辨率重建" style="rounded=0;whiteSpace=wrap;fontStyle=0;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-12" value="基于傅里叶变换的岩石图像超分辨率重建" style="rounded=0;whiteSpace=wrap;fontStyle=0;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-13" value="解决方案" style="text;whiteSpace=wrap;fontStyle=0;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1039.9954711914063" y="280.0045593261719" width="84" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-14" value="增强对输入图像边缘信息的利用" style="text;whiteSpace=wrap;fontStyle=0;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="130" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-21" value="" style="endArrow=none;rounded=0;fontStyle=0;labelBackgroundColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="220" as="sourcePoint" />
+            <mxPoint x="1380" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1150" y="280" />
+              <mxPoint x="1270" y="280" />
+              <mxPoint x="1380" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-22" value="利用输入图像整体信息补充输出图像信息" style="text;whiteSpace=wrap;fontStyle=0;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="280" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-23" value="输入图像上引入噪声信息" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="370" width="159.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pzuw5AjSpCH_m8jwj5JO-24" value="引入频域信息处理，提高模型鲁棒性和去噪能力" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="280" width="90" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
